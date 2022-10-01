@@ -52,10 +52,10 @@ Now instead of typing the whole password to log in, you could use the key which 
 **6) Optimizing Remote Running**\
 * You could write any command at the end of the ssh to run the command on the remote server\
 For example :\
-![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025588559106801724/unknown.png)\
-* You could also use the up arrow to access the previous commands in the terminal\
-* Semi-colons could be used to include multiple commands in a single line\
-* I used a total of 10 keystrokes to execute the following command:\
+![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025588559106801724/unknown.png)
+* You could also use the up arrow to access the previous commands in the terminal
+* Semi-colons could be used to include multiple commands in a single line
+* I used a total of 10 keystrokes to execute the following command:
 `ssh cs15lfa22dp@ieng6@ucsd.edu "ls"`
 
 
