@@ -22,7 +22,7 @@ Once you enter the password it would display a message something like this:\
 * `cd perl5` can be used to change the working directory to perl5
 * `exit` can be used to log out of the server
 
-![Image](https://media.discordapp.net/attachments/891952727641456661/1025567636349784104/unknown.png)\
+![Image](https://media.discordapp.net/attachments/891952727641456661/1025567636349784104/unknown.png)
 
 **4) Moving Files with scp**\
 The command `scp` helps to copy files from the computer you are working on to the local computer (server) you are connected to\
@@ -32,7 +32,7 @@ Now, you can open the VS Code terminal and type the following commands to copy t
 In this case WhereAmI is the name of my Java program\
 It will ask you to enter a passowrd just as it prompts you when use the `ssh` command\
 Now you can run the same program on the computer you are connected to and it works\
-![Image](https://media.discordapp.net/attachments/891952727641456661/1025573333728759878/unknown.png)\
+![Image](https://media.discordapp.net/attachments/891952727641456661/1025573333728759878/unknown.png)
 
 **5) Setting an SSH Key**\
 Typing the password again and agin to log into the remote server could be painful\
@@ -49,7 +49,7 @@ Now type the following scp command in order to copy the key onto the server\
 `scp /Users/<name of the user>/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys`\
 Now instead of typing the whole password to log in, you could use the key which you set to ssh or scp to the remote server\
 ![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025564997260157069/unknown.png)\
-**6) Optimizing Remote Running**\
+**6) Optimizing Remote Running**
 * You could write any command at the end of the ssh to run the command on the remote server\
 For example :\
 ![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025588559106801724/unknown.png)
