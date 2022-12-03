@@ -34,9 +34,48 @@ The steps we took are as follows:
 * `<Esc>` : Gets us out of `insert` mode
 * `:wq<Enter>` : Saves the changes made and exits `vim`
 
+**This is the sequence of the keypresses**
+* v
+* i
+* m
+* `<Space>`
+* `<Shift>`
+* `<D>`
+* `<Tab>`
+* `<Enter>`
+* /
+* p
+* a
+* r
+* s
+* `<Enter>`
+* j
+* j
+* 2
+* w
+* l
+* d
+* 3
+* w
+* i
+* i
+* a
+* r
+* g
+* s
+* [
+*  1
+* ]
+* )
+* )
+* ;
+* `<Esc>`
+* w
+* q
+* `<Enter>`
 ## Part 2
 
-It took me 5 seconds to make the edits on VS Code whereas it took me 15 seconds to make the edits using vim. I did not face any difficulties while making the edits!!
+It took me 45 seconds to make the edits on VS Code and then scp the files to the remote server whereas it took me 15 seconds to make the edits using vim. I did not face any difficulties while making the edits!!
 
 I would prefer using vim while making edits remotely. This is because if I was to edit multiple files on VS Code, then scp the files to the remote computer, it would take a long time. Instead I could use vim on the remote machine and make the edits on the remote machine itself! It would help me save a lot of time
 
