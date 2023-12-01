@@ -1,4 +1,4 @@
-# Lab Report 5
+# Autograder Script
 ```
 # Create your grading script here
 
