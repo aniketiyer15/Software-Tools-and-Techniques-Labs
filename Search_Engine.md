@@ -1,5 +1,3 @@
-# Week 3 Lab Report
-
 ## Part 1 : Search Engine
 *Below is the code for the search engine I built*
 ```
