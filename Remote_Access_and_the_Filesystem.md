@@ -1,4 +1,4 @@
-# Week 1- Remote Access and the Filesystem
+# Remote Access and the Filesystem
 **1) Installing VS Code**\
 I did not do this step because I had already installed VS Code on my laptop. Once you finish installing VS Code, you should see a screen something like this:\
 ![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025561264975523880/unknown.png)
