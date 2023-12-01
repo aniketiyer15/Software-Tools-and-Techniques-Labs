@@ -1,7 +1,7 @@
 # CSE 15L- Software Tools & Technique Labs
 *Welcome to my Github Page*
 
-![Image](https://cdn.discordapp.com/attachments/891952727641456661/1025460160782671872/IMG-20220117-WA0003.jpg)
+![Image]([https://cdn.discordapp.com/attachments/891952727641456661/1025460160782671872/IMG-20220117-WA0003.jpg](https://cdn.discordapp.com/attachments/891952727641456661/1180261218242531338/image.png?ex=657cc6ea&is=656a51ea&hm=b27ffd6edeae3535ecda98a5b9ce01ba4ca1640ca75cab67d5581c654e60af4d&))
 
 
 * [Lab Report 0](https://aniketiyer15.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
